@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [sveltekit(), tailwindcss()],
   server: {
     fs: {
-      allow: [searchForWorkspaceRoot(process.cwd())]
-    }
-  }
+      allow: [searchForWorkspaceRoot(process.cwd())],
+    },
+  },
 });
