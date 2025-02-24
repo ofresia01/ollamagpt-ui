@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ofresia01/ollamagpt-ui/compare/v1.0.0...v1.0.1) (2025-02-24)
+
+
+### Bug Fixes
+
+* **app:** corrected app name ([367181d](https://github.com/ofresia01/ollamagpt-ui/commit/367181d502e78b34614af2fcfbe5f24e1b08445d))
+
 # 1.0.0 (2025-02-24)
 
 
