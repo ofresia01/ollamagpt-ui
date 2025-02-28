@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ofresia01/ollamagpt-ui/compare/v1.0.1...v1.1.0) (2025-02-28)
+
+
+### Features
+
+* **input:** made textarea, added custom scrollbar, added enter icon ([c092c2d](https://github.com/ofresia01/ollamagpt-ui/commit/c092c2d5576d9c52a3a02f6fc5007eb8c8379d59))
+
 ## [1.0.1](https://github.com/ofresia01/ollamagpt-ui/compare/v1.0.0...v1.0.1) (2025-02-24)
 
 
